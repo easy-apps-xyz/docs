@@ -4,12 +4,12 @@ authors:
   avatar: https://files.baviella.com/myimg.png
 date: 2025-11-23
 icon: file
-visibility: private
+visibility: hidden
 label: TOS Whitelabel
 ---
 # EasyApps White-Label Bot Hosting – Terms of Service
 
-**Last Updated:** [Insert Date]
+**Last Updated:** 23rd of November, 2025
 
 These Terms of Service (“Terms”) constitute a legally binding agreement between you (“Client,” “User,” or “you”) and **EasyApps** (“EasyApps,” “we,” “us,” or “our”) regarding your use of EasyApps’ white-label bot hosting service (“Service”). By using the Service, providing a Discord bot token, or accessing the Service in any manner, you agree to be bound by these Terms. If you do not agree to these Terms, you must not use the Service.
 
