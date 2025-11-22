@@ -5,9 +5,7 @@ output: .retype
 start:
 pro: true
 
-hub:
-  link: https://easy-apps.xyz/
-  target: blank
+
 
 
 links:
