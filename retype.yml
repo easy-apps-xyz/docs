@@ -3,9 +3,11 @@ output: .retype
 
 
 start:
-  # Uncomment the next line to try Retype Pro features
 pro: true
 
+hub:
+  link: https://easy-apps.xyz/
+  target: blank
 
 
 links:
