@@ -13,6 +13,14 @@ branding:
 links:
   - text: Status
     link: https://status.easy-apps.xyz
+  - text: Discord Server
+    link: https://go.easy-apps.xyz/discord
+branding:
+  baseColor: "#4388ff"
+  logo: static/nobgcoolveticaforlight.png
+  logoDark: static/nobgcoolvetica.png
+
+favicon: static/favicon.png
 
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
