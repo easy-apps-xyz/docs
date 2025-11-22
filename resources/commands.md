@@ -1,3 +1,13 @@
+---
+authors:
+- name: MatiKozl
+  avatar: https://files.baviella.com/matimg.png
+- name: innakin
+  avatar: https://files.baviella.com/myimg.png
+date: 2025-08-25
+icon: icon-code-square
+---
+
 # Commands
 
 Here, you can find a list of all commands that you can use with EasyApps. Those can be used on your Discord server.
