@@ -17,8 +17,6 @@ branding:
   baseColor: "#4388ff"
   logo: static/nobgcoolveticaforlight.png
   logoDark: static/nobgcoolvetica.png
-  title: EasyApps
-  label: Docs
   
 favicon: static/favicon.png
 
