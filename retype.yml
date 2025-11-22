@@ -1,0 +1,19 @@
+input: .
+output: .retype
+
+url: docs.easy-apps.xyz # Use your website address here
+
+start:
+  # Uncomment the next line to try Retype Pro features
+pro: true
+
+branding:
+  title: EasyApps
+  label: Docs
+
+links:
+  - text: Status
+    link: https://status.easy-apps.xyz
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
