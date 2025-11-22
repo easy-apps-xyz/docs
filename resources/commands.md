@@ -5,7 +5,7 @@ authors:
 - name: innakin
   avatar: https://files.baviella.com/myimg.png
 date: 2025-08-25
-icon: icon-code-square
+icon: code-square
 ---
 
 # Commands
