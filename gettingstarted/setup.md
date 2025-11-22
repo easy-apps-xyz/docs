@@ -7,6 +7,7 @@ authors:
 date: 2025-08-25
 label: "Setup"
 icon: tools
+order: 1000
 ---
 
 # EasyApps Setup Guide
