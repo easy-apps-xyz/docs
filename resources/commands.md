@@ -20,6 +20,6 @@ Commands that can help you with usage of easyApps.
 | `/help` | Shows basic information reagrding easyApps. | Everyone |
 | `/server_setup` | Starts a process of setting-up easyApps for a specific server. More can be found in [here][/gettingstarted/setup.md]. | Server Owner |
 
-!!!
-Need further help? Join our [discord server][https://discord.gg/89UWazunn5] and do not hesitate to open a ticket. We are here to help.
+!!! Need further help? 
+Join our [discord server](https://discord.gg/89UWazunn5) and do not hesitate to open a ticket. We are here to help.
 !!!
