@@ -1,7 +1,6 @@
 input: .
 output: .retype
 
-url: easy-apps.xyz # Use your website address here
 
 start:
   # Uncomment the next line to try Retype Pro features
