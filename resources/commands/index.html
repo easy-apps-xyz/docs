@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.817158207451">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.11.0.817158579528">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.11.0">
@@ -31,12 +31,11 @@
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
     <link href="../../static/favicon.png" rel="icon">
-    <link href="../../resources/css/retype.css?v=3.11.0.817158207451" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.11.0.817158579528" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.817158207451" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.11.0.817158579528" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.11.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.817158207451" data-turbo-eval="false" defer></script>
-    <script id="prism-js" data-cfasync="false" src="../../resources/js/prism.js?v=3.11.0.817158207451" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.11.0.817158579528" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="retype-app" class="relative text-base antialiased text-base-text bg-base-bg font-body">
@@ -188,42 +187,38 @@
     </h2>
 </doc-anchor-target>
 <p>Commands that are related to applications.</p>
-<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Command Name</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Description</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
-        <span>Permission Level</span>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/create_application</code></pre>
-</doc-codeblock></div>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/edit_application</code></pre>
-</doc-codeblock></div>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/remove_application</code></pre>
-</doc-codeblock></div>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/apply</code></pre>
-</doc-codeblock></div>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<p>Starts a process of creating an application.
-Used for editing applications.
-Used for removing applications.
-Allows people to apply for an application.</p>
-    </div>
-    <div class="px-5 py-3 docs-columns-content">
-<p>Application Manager
-Application Manager
-Application Manager
-Everyone/People with Selected Role</p>
-    </div>
+<div class="table-wrapper scrollbar overflow-hidden">
+<table class="comfortable">
+<thead>
+<tr>
+<th>Command Name</th>
+<th>Description</th>
+<th>Permission Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code v-pre>/create_application</code></td>
+<td>Starts a process of creating an application.</td>
+<td>Application Manager</td>
+</tr>
+<tr>
+<td><code v-pre>/edit_application</code></td>
+<td>Used for editing applications.</td>
+<td>Application Manager</td>
+</tr>
+<tr>
+<td><code v-pre>/remove_application</code></td>
+<td>Used for removing applications.</td>
+<td>Application Manager</td>
+</tr>
+<tr>
+<td><code v-pre>/apply</code></td>
+<td>Allows people to apply for an application.</td>
+<td>Everyone/People with Selected Role</td>
+</tr>
+</tbody>
+</table>
 </div>
 <doc-anchor-target id="miscallenous">
     <h2>
@@ -244,43 +239,16 @@ Everyone/People with Selected Role</p>
 <tbody>
 <tr>
 <td><code v-pre>/help</code></td>
-<td>Shows basic information regarding easyApps.</td>
+<td>Shows basic information regarding EasyApps.</td>
 <td>Everyone</td>
 </tr>
 <tr>
 <td><code v-pre>/server_setup</code></td>
-<td></td>
+<td>Starts a process of setting up EasyApps for a specific server. More can be found in <a href="../../gettingstarted/setup/">here</a>.</td>
 <td>Server Owner</td>
 </tr>
 </tbody>
 </table>
-</div>
-<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Command Name</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Description</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
-        <span>Permission Level</span>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/help</code></pre>
-</doc-codeblock></div>
-<div class="codeblock-wrapper"><doc-codeblock>
-<pre translate="no" class="language-markdown"><code v-pre class="language-markdown">/server_setup</code></pre>
-</doc-codeblock></div>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<p>Shows basic information regarding easyApps.
-Starts a process of setting up easyApps for a specific server. More can be found in [here][/gettingstarted/setup.md].</p>
-    </div>
-    <div class="px-5 py-3 docs-columns-content">
-<p>Everyone
-Server Owner</p>
-    </div>
 </div>
 <div class="flex mb-6">
     <div class="shrink-0 w-1.5 rounded-tl-lg rounded-bl-lg bg-callout-primary"></div>
@@ -296,31 +264,8 @@ Server Owner</p>
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>Need further help?</h5>
-<p>Join our <a href="https://discord.gg/89UWazunn5">discord server</a> and do not hesitate to open a ticket. We are here to help.</p>
+<p>Join our <a href="https://go.easy-apps.xyz/discord">Discord server</a> and do not hesitate to open a ticket. We are here to help.</p>
         </div>
-    </div>
-</div>
-<div class="mb-6 overflow-hidden border rounded-md docs-columns dark:border-base-border" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Column 1</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white border-r">
-        <span>Column 2</span>
-    </div>
-    <div class="flex items-center px-5 py-3 font-medium leading-snug text-gray-900 border-b border-base-border dark:text-white">
-        <span>Column 3</span>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<p>Content 1 |
-Content 212</p>
-    </div>
-    <div class="px-5 py-3 docs-columns-content border-r border-base-border">
-<p>Content 2
-|
-cone</p>
-    </div>
-    <div class="px-5 py-3 docs-columns-content">
-<p>Content 3</p>
     </div>
 </div>
 
@@ -382,6 +327,6 @@ cone</p>
 
     <div id="retype-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Commands", level: 2, icon: "file", hasPrism: true, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Commands", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>
