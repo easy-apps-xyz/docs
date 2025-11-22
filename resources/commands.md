@@ -61,10 +61,12 @@ Join our [discord server](https://discord.gg/89UWazunn5) and do not hesitate to 
 
 
 ||| Column 1
-Content 1
+Content 1 |
 Content 212
 ||| Column 2
 Content 2
+|
+cone
 ||| Column 3
 Content 3
 |||
