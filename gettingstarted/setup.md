@@ -13,11 +13,8 @@ icon: tools
 
 EasyApps is very easy to set up, requiring only a few seconds before you can begin building your applications.
 
-To set up EasyApps, the **server owner** must run the command:
-
-``/server_setup``
-
-During this process, you will be required to provide:
+To set up EasyApps, the **server owner** must run the command: ``/server_setup``
+During this process, you will be asked to give:
 
 - The **Application Reviewer** role ID  
 - The **Application Manager** role ID  
