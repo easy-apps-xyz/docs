@@ -6,9 +6,7 @@ start:
   # Uncomment the next line to try Retype Pro features
 pro: true
 
-branding:
-  title: EasyApps
-  label: Docs
+
 
 links:
   - text: Status
@@ -19,7 +17,9 @@ branding:
   baseColor: "#4388ff"
   logo: static/nobgcoolveticaforlight.png
   logoDark: static/nobgcoolvetica.png
-
+  title: EasyApps
+  label: Docs
+  
 favicon: static/favicon.png
 
 footer:
