@@ -63,7 +63,7 @@ When an application is submitted, we store:
 
 #### 2.1.4 Operational Logs
 
-We collect operational logs including:
+We collect operational logs, including:
 - Command usage logs
 - Error logs and debugging information
 - Bot activity logs
@@ -108,7 +108,7 @@ For White-Label customers:
 
 #### 2.2.4 Customization Data
 
-We store white-label customization information including:
+We store white-label customization information, including:
 - Bot name
 - Bot avatar/logo
 - Branding preferences
@@ -120,7 +120,7 @@ We store white-label customization information including:
 
 ### 3.1 Service Operation and Delivery
 
-We use collected information to:
+We use the collected information to:
 - Operate, maintain, and improve the Service
 - Execute bot commands and features
 - Process application submissions and workflows
@@ -129,7 +129,7 @@ We use collected information to:
 
 ### 3.2 Technical Support and Troubleshooting
 
-We use collected information to:
+We use the collected information to:
 - Diagnose and resolve technical issues
 - Respond to support requests
 - Debug errors and improve bot performance
@@ -137,7 +137,7 @@ We use collected information to:
 
 ### 3.3 Service Improvement and Analytics
 
-We use collected information to:
+We use the collected information to:
 - Analyze usage patterns and trends
 - Improve bot features and functionality
 - Develop new features
@@ -152,12 +152,13 @@ We may use your email address to:
 - Respond to support inquiries
 - Send billing and subscription information
 - Provide technical assistance
+- Send marketing emails
 
-We do not send marketing emails unless you explicitly opt in to receive them.
+You can always opt out of receiving marketing emails.
 
 ### 3.5 Security and Compliance
 
-We use collected information to:
+We use the collected information to:
 - Detect and prevent fraud, abuse, and violations of our Terms of Service
 - Ensure compliance with Discord's Terms of Service
 - Protect the security and integrity of the Service
@@ -297,7 +298,7 @@ You cannot opt out of essential service communications related to your account, 
 
 You may stop data collection at any time by:
 - Removing the bot from your Discord server
-- Canceling your White-Label subscription
+- Cancelling your White-Label subscription
 - Deleting your account
 
 ---
@@ -333,14 +334,14 @@ To exercise these rights, contact us at **support@easy-apps.xyz**.
 
 ## 12. European Privacy Rights (GDPR)
 
-If you are located in the European Economic Area (EEA), United Kingdom, or Switzerland, you have additional rights under the General Data Protection Regulation (GDPR):
+If you are located in the European Economic Area (EEA), the United Kingdom, or Switzerland, you have additional rights under the General Data Protection Regulation (GDPR):
 
 - **Right of Access**: You may request access to your personal data
 - **Right to Rectification**: You may request correction of inaccurate data
 - **Right to Erasure**: You may request deletion of your personal data
 - **Right to Restriction**: You may request restriction of processing
 - **Right to Data Portability**: You may request transfer of your data
-- **Right to Object**: You may object to processing of your personal data
+- **Right to Object**: You may object to the processing of your personal data
 - **Right to Withdraw Consent**: You may withdraw consent at any time
 
 To exercise these rights, contact us at **support@easy-apps.xyz**.
