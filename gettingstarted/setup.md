@@ -21,3 +21,7 @@ During this process, you will be asked to give:
 - The **Application Manager** role ID  
 
 After submitting the required information, the setup is complete. You can immediately begin creating and managing applications.
+
+!!!warning
+Only the **server owner** can run the ``/server_setup`` command.
+!!!
