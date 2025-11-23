@@ -88,7 +88,6 @@ Our bots require access to Discord messages in servers where they are deployed t
 When you create a White-Label account, we collect:
 - Email address
 - Username
-- Account credentials (passwords are encrypted)
 - Account settings and preferences
 
 #### 2.2.2 Payment Information
@@ -177,7 +176,7 @@ All data is stored on secure servers. We implement industry-standard security me
 - **Configuration Data**: Retained while your bot remains active and for a reasonable period after removal
 - **Application Data**: Retained indefinitely unless you request deletion
 - **Operational Logs**: Retained indefinitely unless you request deletion
-- **Account Data (White-Label)**: Retained while your subscription is active and for up to 90 days after cancellation
+- **Account Data (White-Label)**: Retained indefinitely unless you request deletion
 - **Bot Tokens (White-Label)**: Retained while your subscription is active and deleted within 30 days of service termination
 
 ### 4.3 Data Deletion Requests
@@ -255,18 +254,11 @@ You can review and manage bot permissions through Discord's server settings.
 ### 7.1 Security Measures
 
 We implement appropriate technical and organizational measures to protect your information, including:
-- Encryption of sensitive data in transit and at rest
 - Secure server infrastructure
 - Access controls and authentication mechanisms
 - Regular security assessments
 - Monitoring for unauthorized access
 
-### 7.2 Account Security (White-Label Customers)
-
-You are responsible for maintaining the security of your account credentials. We recommend:
-- Using strong, unique passwords
-- Not sharing your account credentials
-- Notifying us immediately of any suspected unauthorized access
 
 ### 7.3 Limitations
 
