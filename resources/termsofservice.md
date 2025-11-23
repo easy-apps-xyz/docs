@@ -55,7 +55,7 @@ EasyApps provides two distinct Discord bot services:
 
 - Paid subscription service providing dedicated bot instances
 - All bots are created, developed, and maintained by EasyApps
-- Clients may customize visual branding, including bot names, avatars, and logos
+- Clients may customise visual branding, including bot names, avatars, and logos
 - Clients may not modify, reverse-engineer, or access the underlying bot code
 - All bots share the same core software and functionality
 - Updates and improvements are rolled out automatically to all hosted bots
@@ -64,7 +64,7 @@ EasyApps provides two distinct Discord bot services:
 
 - EasyApps generates and manages all Discord bot tokens for white-label bots
 - Clients do not provide their own bot tokens
-- Tokens are stored securely and are accessible only to authorized EasyApps management personnel
+- Tokens are stored securely and are accessible only to authorised EasyApps management personnel
 
 ---
 
@@ -86,8 +86,8 @@ You may not use the Service for any of the following purposes:
 - **Illegal Activity**: Any activity that violates applicable laws, regulations, or Discord's Terms of Service
 - **Malicious Bots**: Self-bots, raiding tools, harassment bots, spam bots, token loggers, or any bot designed to harm, harass, or deceive others
 - **Adult Content**: NSFW, pornographic, sexually explicit, or adult content of any kind
-- **Harmful Activity**: Disrupting EasyApps systems, attempting unauthorized access, or engaging in activity that exposes EasyApps to legal or reputational risk
-- **Abuse**: Harassment, hate speech, discrimination, threats, or any form of abusive behavior
+- **Harmful Activity**: Disrupting EasyApps systems, attempting unauthorised access, or engaging in activity that exposes EasyApps to legal or reputational risk
+- **Abuse**: Harassment, hate speech, discrimination, threats, or any form of abusive behaviour
 - **Fraud**: Impersonation, phishing, scamming, or deceptive practices
 
 ### 4.3 Enforcement
@@ -97,7 +97,7 @@ EasyApps reserves the right to immediately suspend or terminate Service for any 
 ### 4.4 Responsibility for Bot Actions
 
 You are fully and solely responsible for:
-- All actions, behaviors, and content generated through your use of the Service
+- All actions, behaviours, and content generated through your use of the Service
 - All interactions between the bot and Discord users in your servers
 - Any consequences resulting from bot configuration or usage
 
@@ -118,17 +118,17 @@ As a free service, the Normal Bot is provided "as-is" without any guarantees of 
 The Normal Bot is a shared instance used by multiple servers simultaneously. You acknowledge that:
 - You have no exclusive rights to the bot
 - Service availability may be affected by overall usage
-- EasyApps may prioritize White-Label customers for support and service availability
+- EasyApps may prioritise White-Label customers for support and service availability
 
 ### 5.4 Limited Support
 
-Support for Normal Bot users is provided on a best-effort basis. EasyApps prioritizes support for White-Label customers and may not respond to all Normal Bot support requests.
+Support for Normal Bot users is provided on a best-effort basis. EasyApps prioritises support for White-Label customers and may not respond to all Normal Bot support requests.
 
 ### 5.5 Data Collection
 
 When using the Normal Bot:
 - No data is collected when the bot is initially added to your server
-- When you run `/server_setup`, we store the configuration data you provide plus the server ID
+- When you run `/server_setup`, we store the configuration data you provide, plus the server ID
 - When you create an application, we store application data (server ID, log channel, name, etc.)
 - When an application is submitted, we store the server ID, user ID, and message ID
 - Operational logs are collected for service maintenance and improvement
@@ -146,10 +146,10 @@ EasyApps may terminate your access to the Normal Bot at any time for any reason,
 You are responsible for maintaining the confidentiality of your account credentials, including passwords and any other authentication information. You are fully responsible for all activities that occur under your account.
 
 You agree to:
-- Notify EasyApps immediately at support@easy-apps.xyz if you suspect any unauthorized access or security breach
-- Take reasonable precautions to prevent unauthorized access to your account
+- Notify EasyApps immediately at support@easy-apps.xyz if you suspect any unauthorised access or security breach
+- Take reasonable precautions to prevent unauthorised access to your account
 
-EasyApps is not liable for any loss, damage, or unauthorized access to your account or bot resulting from your failure to maintain account security, third-party interference, or circumstances beyond our control.
+EasyApps is not liable for any loss, damage, or unauthorised access to your account or bot resulting from your failure to maintain account security, third-party interference, or circumstances beyond our control.
 
 ### 6.2 Subscription and Billing
 
@@ -163,11 +163,11 @@ New white-label clients are eligible for a 7-day free trial to evaluate the Serv
 
 #### 6.2.3 Payment Processing
 
-All payments are processed through Stripe. By subscribing, you agree to Stripe's terms and conditions and authorize recurring charges to your payment method.
+All payments are processed through Stripe. By subscribing, you agree to Stripe's terms and conditions and authorise recurring charges to your payment method.
 
 #### 6.2.4 Billing Cycle
 
-Subscriptions are billed on a recurring basis according to your selected billing cycle (monthly or annual, as applicable). You will be charged automatically at the beginning of each billing period.
+Subscriptions are billed regularly according to your selected billing cycle (monthly or annual, as applicable). You will be charged automatically at the beginning of each billing period.
 
 #### 6.2.5 No Refunds
 
@@ -195,13 +195,13 @@ To function properly, white-label bots hosted by EasyApps require access to Disc
 EasyApps may process Discord message content to operate, maintain, and improve the bots. This includes:
 - Reading messages to execute commands
 - Processing message content for bot functionality
-- Analyzing usage patterns to enhance Service quality
+- Analysing usage patterns to enhance Service quality
 
 #### 6.3.3 Data Storage
 
-When using White-Label Bot service:
+When using the White-Label Bot service:
 - No data is collected when the bot is initially added to your server
-- When you run `/server_setup`, we store the configuration data you provide plus the server ID
+- When you run `/server_setup`, we store the configuration data you provide, plus the server ID
 - When you create an application, we store application data (server ID, log channel, name, etc.)
 - When an application is submitted, we store the server ID, user ID, and message ID
 - All operational logs are collected and stored
@@ -252,11 +252,11 @@ EasyApps provides free technical support to all white-label clients. Support inc
 
 #### 6.5.2 Contact
 
-For support inquiries, contact us at **support@easy-apps.xyz**. We will make reasonable efforts to respond to support requests in a timely manner, though response times are not guaranteed.
+For support inquiries, contact us at **support@easy-apps.xyz**. We will make reasonable efforts to respond to support requests promptly, though response times are not guaranteed.
 
-### 6.6 White-Label Customization
+### 6.6 White-Label Customisation
 
-You may customize the visual branding of your white-label bot, including:
+You may customise the visual branding of your white-label bot, including:
 - Bot name
 - Bot avatar
 - Visual logos and branding elements
@@ -294,8 +294,8 @@ EasyApps respects intellectual property rights and complies with applicable copy
 - Identification of the copyrighted work claimed to be infringed
 - Identification of the infringing material and its location
 - Your contact information
-- A statement of good faith belief that the use is not authorized
-- A statement that the information provided is accurate and that you are authorized to act on behalf of the copyright owner
+- A statement of good faith belief that the use is not authorised
+- A statement that the information provided is accurate and that you are authorised to act on behalf of the copyright owner
 - Your physical or electronic signature
 
 EasyApps may remove or disable access to allegedly infringing content at its discretion.
@@ -316,7 +316,7 @@ EasyApps may release updates, patches, improvements, and new features at any tim
 
 All updates are applied automatically and globally to all hosted bots, including white-label bots. You acknowledge that updates may affect your bot's operation and that you have no right to refuse or delay updates.
 
-### 8.3 No Customization
+### 8.3 No Customisation
 
 Bots are provided "as-is" with standard functionality. EasyApps does not accept requests for custom features, code modifications, or client-specific functionality.
 
@@ -328,7 +328,7 @@ Bots are provided "as-is" with standard functionality. EasyApps does not accept 
 
 **Normal Bot Users**: You may stop using the Normal Bot at any time by removing it from your server.
 
-**White-Label Clients**: You may terminate your use of the Service at any time by canceling your subscription as described in Section 6.2.6.
+**White-Label Clients**: You may terminate your use of the Service at any time by cancelling your subscription as described in Section 6.2.6.
 
 ### 9.2 Termination by EasyApps
 
@@ -370,7 +370,7 @@ THE SERVICE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT ANY WARRANTIES OF ANY
 
 EasyApps does not guarantee that:
 - The Service will meet your specific requirements
-- The Service will be available at all times or without interruption
+- The Service will be available at all times without interruption
 - Errors or defects will be corrected
 - The Service will be secure or free from viruses or harmful components
 
@@ -460,13 +460,13 @@ Nothing in these Terms creates any partnership, joint venture, employment, or ag
 
 ### 14.6 Force Majeure
 
-EasyApps shall not be liable for any failure or delay in performance due to circumstances beyond its reasonable control, including but not limited to natural disasters, war, terrorism, government actions, labor disputes, or internet service provider failures.
+EasyApps shall not be liable for any failure or delay in performance due to circumstances beyond its reasonable control, including but not limited to natural disasters, war, terrorism, government actions, labour disputes, or internet service provider issues.
 
 ---
 
-## 15. Contact Information
+## 15. Contaclabourormation
 
-For questions, concerns, or inquiries regarding these Terms or the Service, please contact us at:
+For failures by questions, concerns, or inquiries regarding these Terms or the Service, please contact us at:
 
 **Email:** support@easy-apps.xyz
 
