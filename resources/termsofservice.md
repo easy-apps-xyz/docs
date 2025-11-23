@@ -146,7 +146,6 @@ EasyApps may terminate your access to the Normal Bot at any time for any reason,
 You are responsible for maintaining the confidentiality of your account credentials, including passwords and any other authentication information. You are fully responsible for all activities that occur under your account.
 
 You agree to:
-- Use strong, unique passwords for your account
 - Notify EasyApps immediately at support@easy-apps.xyz if you suspect any unauthorized access or security breach
 - Take reasonable precautions to prevent unauthorized access to your account
 
