@@ -103,16 +103,16 @@ Please refer to [Stripe's Privacy Policy](https://stripe.com/privacy) for inform
 
 For White-Label customers:
 - We generate and securely store Discord bot tokens
-- Tokens are accessible only to authorized EasyApps management personnel
+- Tokens are accessible only to authorised EasyApps management personnel
 - Token security is maintained through encrypted storage
 
-#### 2.2.4 Customization Data
+#### 2.2.4 Customisation Data
 
-We store white-label customization information, including:
+We store white-label customisation information, including:
 - Bot name
 - Bot avatar/logo
 - Branding preferences
-- Visual customization settings
+- Visual customisation settings
 
 ---
 
@@ -138,10 +138,10 @@ We use the collected information to:
 ### 3.3 Service Improvement and Analytics
 
 We use the collected information to:
-- Analyze usage patterns and trends
+- Analyse usage patterns and trends
 - Improve bot features and functionality
 - Develop new features
-- Optimize performance and reliability
+- Optimise performance and reliability
 - Understand how users interact with the Service
 
 ### 3.4 Communication (White-Label Customers Only)
@@ -170,7 +170,7 @@ We use the collected information to:
 
 ### 4.1 Data Storage Location
 
-All data is stored on secure servers. We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, or destruction.
+All data is stored on secure servers. We implement industry-standard security measures to protect your information from unauthorised access, disclosure, alteration, or destruction.
 
 ### 4.2 Data Retention Period
 
@@ -185,7 +185,7 @@ All data is stored on secure servers. We implement industry-standard security me
 You may request deletion of your data at any time by contacting us at **support@easy-apps.xyz**. We will process deletion requests within 30 days. Please note:
 - Deletion may affect bot functionality
 - Some data may be retained for legal or operational purposes
-- Operational logs necessary for system integrity may be retained in anonymized form
+- Operational logs necessary for system integrity may be retained in anonymised form
 
 ---
 
@@ -211,7 +211,7 @@ We may disclose your information if required to do so by law or in response to:
 
 ### 5.3 Business Transfers
 
-In the event of a merger, acquisition, reorganization, or sale of assets, your information may be transferred to the successor entity. You will be notified of any such change via email (for White-Label customers) or through the Service.
+In the event of a merger, acquisition, reorganisation, or sale of assets, your information may be transferred to the successor entity. You will be notified of any such change via email (for White-Label customers) or through the Service.
 
 ### 5.4 What We Do Not Do
 
@@ -254,11 +254,11 @@ You can review and manage bot permissions through Discord's server settings.
 
 ### 7.1 Security Measures
 
-We implement appropriate technical and organizational measures to protect your information, including:
+We implement appropriate technical and organisational measures to protect your information, including:
 - Secure server infrastructure
 - Access controls and authentication mechanisms
 - Regular security assessments
-- Monitoring for unauthorized access
+- Monitoring for unauthorised access
 
 
 ### 7.3 Limitations
