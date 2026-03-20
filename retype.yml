@@ -5,6 +5,7 @@ output: .retype
 start:
 pro: true
 
+url: https://easyapps.github.io/docs
 
 links:
   - text: Status
