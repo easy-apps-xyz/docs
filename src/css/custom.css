@@ -1,0 +1,26 @@
+/**
+ * EasyApps brand color: #4388ff
+ */
+
+:root {
+  --ifm-color-primary: #4388ff;
+  --ifm-color-primary-dark: #2572ff;
+  --ifm-color-primary-darker: #1667ff;
+  --ifm-color-primary-darkest: #0053e8;
+  --ifm-color-primary-light: #619eff;
+  --ifm-color-primary-lighter: #70a6ff;
+  --ifm-color-primary-lightest: #9dc2ff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #4388ff;
+  --ifm-color-primary-dark: #2572ff;
+  --ifm-color-primary-darker: #1667ff;
+  --ifm-color-primary-darkest: #0053e8;
+  --ifm-color-primary-light: #619eff;
+  --ifm-color-primary-lighter: #70a6ff;
+  --ifm-color-primary-lightest: #9dc2ff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

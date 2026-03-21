@@ -1,17 +1,41 @@
----
-authors:
-- name: MatiKozl
-  avatar: https://files.baviella.com/matimg.png
-- name: innakin
-  avatar: https://files.baviella.com/myimg.png
-date: 2025-08-25
-label: "Home"
-icon: home
----
-# EasyApps Documentation
+# Website
 
-Welcome to the **EasyApps Documentation Page**.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-EasyApps is a brand-new application solution for Discord servers. All actions can be executed directly from Discord. This guide is designed for all users, regardless of prior experience with other Discord bots. It provides detailed information regarding each command.
+## Installation
 
-If you have any questions, you can visit our [support server](https://go.easy-apps.xyz/discord) or go over the [FAQ page](gettingstarted/faqpage.md). We are ready to assist you with your inquiries.
+```bash
+yarn
+```
+
+## Local Development
+
+```bash
+yarn start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+## Build
+
+```bash
+yarn build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
+
+## Deployment
+
+Using SSH:
+
+```bash
+USE_SSH=true yarn deploy
+```
+
+Not using SSH:
+
+```bash
+GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
